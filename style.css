@@ -1,0 +1,29 @@
+body{
+    font-family: cursive;
+    padding: 20px;
+    background: black;
+    color: olive
+}
+
+h1{
+    text-align: center;
+}
+
+button{
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+#users{
+    list-style: none;
+    padding: 0;
+}
+
+#users li{
+    background: darkgrey;
+    margin: 10px 0;
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+}
